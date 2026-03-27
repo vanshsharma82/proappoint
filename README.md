@@ -145,7 +145,7 @@ Admin panel
 
 ✨ Author
 
-Manveer Singh
+Vansh sharma
 
 // addings things later like professionals personal dashboard or other features
 .......
